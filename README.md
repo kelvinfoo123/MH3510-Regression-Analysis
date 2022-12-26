@@ -6,3 +6,5 @@ Contents of the course include:
 - Multiple regression models 
 - One-way anova test 
 - Two-way anova test
+
+All codes in this repository will be written in Python.
